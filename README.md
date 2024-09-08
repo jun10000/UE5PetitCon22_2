@@ -9,6 +9,8 @@ English version is none. Please use DeepL etc.
 
 ## 遊び方
 
+Youtube動画は[こちら](https://youtu.be/gkIiaPFpMzc)。  
+
 - マウスクリック  
   矢印に向かって飛び乗りを試す。  
   馬がいる場合、飛び乗りに成功し、得点（距離）が加算される。  
