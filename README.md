@@ -1,4 +1,4 @@
-# 大人のメリーゴーランド [[第22回UE5ぷちコン](https://historia.co.jp/ue5petitcon22)]
+# 本当のメリーゴーランド [[第22回UE5ぷちコン](https://historia.co.jp/ue5petitcon22)]
 
 English version is none. Please use DeepL etc.  
 
